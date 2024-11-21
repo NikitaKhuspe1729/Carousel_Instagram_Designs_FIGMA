@@ -1,5 +1,6 @@
 # Carousel_Instagram_Designs_FIGMA
 Carousel Instagram designs designed in FIGMA. Vector perfect design designed with fixed colors and infographics for making it attractive.
+# Heliverse company 
 ![combined](https://github.com/user-attachments/assets/112aecb6-6cc8-4e61-96c3-dec6980aaaf3)
 ![slide 1](https://github.com/user-attachments/assets/b1e2ee8b-9938-4098-93e6-0632793736b8)
 ![slide 2](https://github.com/user-attachments/assets/881cc6cd-2bc7-4bb9-9d55-e6d7a7623fec)
